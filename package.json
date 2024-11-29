@@ -25,7 +25,7 @@
     "date-fns": "^2.16.1",
     "dropzone": "^5.7.2",
     "lodash.unescape": "^4.0.1",
-    "moment": "^2.29.1",
+    "moment": "^2.29.4",
     "pell": "^1.0.4",
     "to-markdown": "^3.1.0",
     "turndown": "^5.0.1",
